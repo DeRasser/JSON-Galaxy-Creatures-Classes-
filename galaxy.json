@@ -1,0 +1,127 @@
+{
+  "galaxies": [
+    {
+      "name": "Xereon",
+      "species": [
+        {
+          "name": "Firetype",
+          "avg_lifetime": 125,
+          "creatures": [
+            {
+              "id": 5612,
+              "name": "Firemag",
+              "age": 43,
+              "status": "healthy"
+            }
+          ]
+        },
+        {
+          "name": "Watertype",
+          "avg_lifetime": 196,
+          "creatures": [
+            {
+              "id": 4279,
+              "name": "Icelotus",
+              "age": 89,
+              "status": "healthy"
+            },
+            {
+              "id": 2397,
+              "name": "Waterdot",
+              "age": 23,
+              "status": "weak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "XStar-200",
+      "species": [
+        {
+          "name": "Insectbreath",
+          "avg_lifetime": 213,
+          "creatures": [
+            {
+              "id": 2599,
+              "name": "Butterfly",
+              "age": 189,
+              "status": "weak"
+            },
+            {
+              "id": 7863,
+              "name": "Mantis",
+              "age": 76,
+              "status": "healthy"
+            }
+          ]
+        },
+        {
+          "name": "Lovebreath",
+          "avg_lifetime": 87,
+          "creatures": [
+            {
+              "id": 5262,
+              "name": "Cutecat",
+              "age": 32,
+              "status": "weak"
+            },
+            {
+              "id": 3434,
+              "name": "Heartbreak",
+              "age": 145,
+              "status": "healthy"
+            },
+            {
+              "id": 2478,
+              "name": "Pinksympathy",
+              "age": 12,
+              "status": "weak"
+            }
+          ]
+        },
+        {
+          "name": "Rockbreath",
+          "avg_lifetime": 467,
+          "creatures": [
+            {
+              "id": 1132,
+              "name": "Rockyskin",
+              "age": 563,
+              "status": "healthy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ST500-5X",
+      "species": [
+        {
+          "name": "Sunhold",
+          "avg_lifetime": 965,
+          "creatures": [
+            {
+              "id": 9999,
+              "name": "RisingSUN",
+              "age": 1000,
+              "status": "healthy"
+            }
+          ]
+        },
+        {
+          "name": "Moonhold",
+          "avg_lifetime": 745,
+          "creatures": [
+            {
+              "id": 7777,
+              "name": "LightingMOON",
+              "age": 800,
+              "status": "healthy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
